@@ -1,0 +1,9 @@
+{
+  "name": "node-server",
+  "version": "0.1.0",
+  "description": "Tiny node server demo!",
+  "main": "dist/index.js",
+  "repository": "https://github.com/haskellcamargo/node-server.git",
+  "author": "Marcelo Camargo <marcelocamargo@linuxmail.org>",
+  "license": "MIT"
+}
